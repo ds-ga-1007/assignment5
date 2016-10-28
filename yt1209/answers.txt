@@ -1,0 +1,204 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 TrebuchetMS;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 ArialMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat8\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat9\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat11\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat12\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid12}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl580\sa240
+
+\f0\fs42 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Questions
+\f1\b\fs48 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl400\sa266
+
+\f2\i\b0\fs30 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Note: Use the file name and line number when referring to locations in the code.
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa266
+\ls1\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Describe the changes you made to make the game work with Python 3\uc0\u8232 \
+\pard\pardeftab720\sl400\sa266
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I changed raw_input() at line 37 in adventure.py to input().
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa266
+\ls2\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Describe three main techniques that the author used to structure the program.\uc0\u8232 \
+\pard\pardeftab720\sl400\sa266
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Module which contains everything necessary to execute only one aspect of the desired functionality: time, play, game
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Class which providing initial values for state and implementations of behavior: class Data(object), class Game(Data)
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Functions which accomplish a specific task: baudout(s), loop()
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa266
+\ls3\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Has the author used meaningful names? Give some examples of meaningful names used and what you think they mean. Give some examples of where the author has not used meaningful names. \uc0\u8232 \
+\pard\pardeftab720\sl400\sa266
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Example of meaningful names: the load_advent_date() at line 3 in play.py can be regarded as a meaningful name, which can be easily understood as loading adventure date from game. And the names in Class Game(data) at line 19 in game.py, like full_description_period, treasures_not_found, impossible_treasures, are all well-defined.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Example of unmeaningful names: a series of variables section1(line 59), section2(line 64), section3(line 67) \'85 in data.py can be regraded as a series of unmeaningful names, it is hard to tell what these functions are used for.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa266
+\ls4\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Do the functions used in the code do one thing? Give some examples of functions that only do one thing. Give some examples of functions that do more than one thing.\uc0\u8232 \
+\pard\pardeftab720\sl400\sa266
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Not all the functions used in the code do one thing.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Examples of functions that only do one thing: baudout(s) function at line 13 in adventure.py is an function that only do one thing, caculating the baud our rate; accumulate_message(dictionary, n, line) function at line 54 in data.py is another example of functions that only do one thing, which is recording accumulative messages.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Examples of functions that do more than one thing: the loop() function at line 19 in adventure.py is an function that do more than one thing; move_to(self, newloc=None) function at line 153 in game.py is another example.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls5\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Do any of the functions cause side effects? If so, which ones?\uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 There are some functions cause side effects. For example, the section 4 (data, n, text, *etc) function at line 107 in data.py is causing side effect. This function modified one of the inputs - text first, and then execute other statements. 
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls6\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Can you find any repeated code that could be made into a function?\uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I can\'92t find any repeated code that could be made into a function.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls7\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the program use exception handling? Can you find any input that causes the program to terminate abnormally? 
+\i \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Hint: run the program from the terminal prompt. The invalid input may not be normal text.
+\i0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 In adventure.py file, if the user input some unvalid commands, the program will use exveption handling to output some prompts. However, I can\'92t find any input that causes the program to terminate abnormally.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls8\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Do any of the classes have responsibility over more than one piece of functionality. If so, which ones?\uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Class Game at line 19 in game.py has more than one piece of functionality. It defines room situation, dwarf stage, treasures discovery, and even player death.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls9\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	9.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Are all the classes cohesive? List any that \expnd0\expndtw0\kerning0
+\ul \outl0\strokewidth0 aren\'92t\expnd0\expndtw0\kerning0
+\ulnone \outl0\strokewidth0 .\uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Class Game at line 19 in game.py is not cohesive, because it defines too many things which are uncorelated.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls10\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	10.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Describe the author\'92s approach to commenting the code. Provide examples of good and bad comments that have been used in the code.\uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Example of good comments:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The comment \'93The Adventure data file knows only the first five characters of each word in the game, so we have to know the full version of each word\'94 at line 6-7 in data.py, and the comment \'93Append the Unicode representation of `s` to our output\'94 at line 64 in game.py, \'93Ask a question and prepare to receive a yes-or-no answer\'94 at line 73 in game.py are all good comments which well explained intentions.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Example of bad comments:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The author commented \'93# Knowledge of what each section contains.\'94 at line 57 in data.py, however, this comment only explained that we need extra knowledge to know what the meaning of following section1, section2..functions, but it didn\'92t explain what exactly the meaning is.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 In Class game(Data) at line 19 in game.py, the author commented every name, however, all the variables are well-named and it is easily to understand what this variable for, so, there is no need to add these redundant comments.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls11\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	11.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Provide an example of where vertical formatting has been used to make the code clearer. \uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 In play.py, the play(seed=None) function at line 11 calls another function named load_advent_dat() at line 24, the dependent function play(seed = None) has been put right below the function load_advent_dat() at line 3 which it calls.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 And in all these three functions in play.py file, the arguments of import modules are put together, and other assignment commands are put together below them, there is a blank line between importing arguments and assignment commands, which identifies that these two parts are different.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\sa240
+\ls12\ilvl0
+\f2\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	12.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Run the tests provided with the program. Do they pass or fail? Do you consider the tests meet the F.I.R.S.T. criteria? Provide details of why they do or do not meet the criteria. \uc0\u8232 \
+\pard\pardeftab720\sl400\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 All the tests passed. And I believe the tests meet the F.I.R.S.T criteria to some extent.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 All the tests run fast, they are repeatable and self-validating. But they are not independent because you have to run test_commands.py first and then you can sucessfully using walkthrough1.txt and walkthrough2.txt in test_walks.py, which means they can\'92t run in any order. Besides, it is unsure whether the tests are been written during code development. 
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+}
