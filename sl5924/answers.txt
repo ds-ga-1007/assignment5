@@ -1,5 +1,5 @@
 1. 
-change raw_input() to input()
+change raw_input() to input() (Other problems exit, but they are not caused by version of python)
 
 2. 
 (1) module; In order to separate concerns, for example, adventure module enable us to interact with the program. Also, it imports load_advent_dat from play.py module and Game from game.py, making the program easier to understand.
@@ -14,7 +14,7 @@ For example, in play.py, the author uses names such as
 (a) load_advent_dat which obviously means that the function is going to load data for the adventure.py.
 (b) In model.py, is_dark, is_forced, etc. such functions¡¯ names are very easy to be understood. 
 
-For the meaningless names, the author defines start2() and start() which are meaningless since we cannot tell the differences between than before we actually look  into the contents of the functions.
+For the meaningless names, the author defines start2() and start() which are meaningless since we cannot tell the differences between them before we actually look  into the contents of the functions.
 
 4. 
 Some of the codes only do one thing:
@@ -59,16 +59,22 @@ The author usually put the comments to explain the use of each module but some v
    def start_closing_cave(self):  #10000
  
 11. 
-In model.py, the class Object(object), the author first put a group of initiating variables together, and then put a blank line to separate the following functions. Moreover, different functions are separated by blank lines.
+In model.py, in the class Object(object)
+
+the author first put a group of initiating variables together, and then put a blank line to separate the following functions. Moreover, different functions are separated by blank lines.
 
 12. 
-All tests passed when I ran them. 
+All 28 tests passed when I ran them. 
 Ran 28 tests in 10.814s
+OK
+However, when we ran two more tests, which are walkthrough1.txt and walkthrough2.txt, both failed. After I changed module adventure to play, all 30 tests passed. 
+Ran 30 tests in 10.926s
+
 OK
 
 For the F.I.R.S.T criteria: 
 (1) Fast: The tests are fast, since they take only about 11.314 seconds to do the job.
 (2) Independent: They are also independent to each other since they all can be ran isolated. 
 (3) Repeatable: They are repeatable since they can be ran repeatedly. 
-(4) self-validating: they are self-validated since we can tell whether the test is passed or not from the terminal which shows OK. 
+(4) self-validating: they are self-validated since we can tell whether the test is passed or failed from the terminal. 
 (5) Timely: However, they don¡¯t meet timely criteria since we can see the date of ¡°100% test coverage¡± is 02/15/2011 late than the ¡°first public release¡± which is on 31/01/2011. This means the author very likely writes the tests after the program is completed.
