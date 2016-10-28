@@ -1,3 +1,4 @@
+.sa
 This is a faithful port of the “Adventure” game to Python 3 from the
 original 1977 FORTRAN code by Crowther and Woods (it is driven by the
 same ``advent.dat`` file!) that lets you explore Colossal Cave, where
@@ -38,7 +39,7 @@ long word, so you can type the long or short version as you please.
 You can save your game at any time by calling the ``save`` command
 with a filename, and then can resume it later::
 
-    > save advent.save
+    > save advent
     GAME SAVED
     > quit
     DO YOU REALLY WANT TO QUIT NOW?
