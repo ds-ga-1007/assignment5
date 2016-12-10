@@ -1,5 +1,4 @@
 
-Note: Use the file name and line number when referring to locations in the code.
 1. Describe the changes you made to make the game work with Python 3.
 
 I only changed raw_input() to input() and it could be run in python 3.
@@ -40,18 +39,20 @@ adventure.py, line 19, loop: It sounds that this function does more than one thi
 prompt.py, line 28 install_words: this function defines a list and builds it. It also has a if statement that does some actions and checks a status in the if statement. 
 
 5. Do any of the functions cause side effects? If so, which ones?
-Yes! in adventure line 19, the loop function takes the action of starting the game in line 30. However this is not implied in the function's name. loop does multiple things and one of them is the start.
+
+Yes. A side effect is a state modification of something outside the called function. This happens for example in the function "describe_location" in the game.py. 
+It is supposed to describe the location of the user in the game. However, if some of the conditions in the function are met, the user may die, because the program may execute self.die_here() 
 
 
 6. Can you find any repeated code that could be made into a function?
 
-There are repeated code in play.py under play and resume functions. To avoid this repeatition, we could have a conditional to first declare the status of start or resume. 
+There is no repeated code.
 
 7. Does the program use exception handling? Can you find any input that causes the program to terminate abnormally? Hint: run the program from the terminal prompt. The invalid input may not be normal text.
 
 Error handling case: adventure.py, line 42-46
 
-When I enter charactors such as !,@,#,$,',* the program does not respond. It does not terminate, but it is a kind of error, because it leaves the user wondering what might be the next step. 
+An input such as Ctrl-C is not handled. 
 
 
 8. Do any of the classes have responsibility over more than one piece of functionality. If so, which ones?
@@ -60,8 +61,7 @@ The class game in game.py is a very large class with many functions. Some of the
 
 9. Are all the classes cohesive? List any that aren’t.
 
-The game class in game.py contains many menthods and is responsible for many functionalities. As a result, many of the menthods in this class manipulate only a subset of attributes in this class. This results in low cohesion for these methods. 
-
+No. Examples of non cohesive are Room, Word, Object and Hint.
 
 10. Describe the author’s approach to commenting the code. Provide examples of good and bad comments that have been used in the code.
 
