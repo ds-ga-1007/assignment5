@@ -1,6 +1,6 @@
 1. Change adventure.py line 37 raw_input('> ') to input('> ')
-2. Inheritance, Single responsibility principle, Cohesion
-3. Bade name: in adventure.py line 19, the function "loop()" is a bad name since it doesn't tell us what kind of loop it is and what it does. 
+2. Packages, modules, classes, and functions
+3. Bad names: in adventure.py line 19, the function "loop()" is a bad name since it doesn't tell us what kind of loop it is and what it does. 
 In data.py, functions that are named from section1 to section12 are not meaningful names. It is hard to tell what they do out of context.
 Good name: in game.py line 822, "write_default_message" is a descriptive name.
 4. In adventure.py line 19, the function "loop()" doesn't just do one thing. In data.py line 54, the function accumulate_message(dictionary) only does one thing. In data.py line 34, “referent(self, word)” only check if word.kind == 'noun’.
@@ -8,7 +8,7 @@ Good name: in game.py line 822, "write_default_message" is a descriptive name.
 "text" to lower case, and it modifies the original argument by changing into lower case and long_words.
 In game.py line 772, the function die(self) modifies the instance variables "deaths" and "is_dead".
 In model.py, line 130 functions "carry(self)", line 134 "drop(self)", and line 138 "hide(self)" all have side effects.
-6. In game.py, the function  t_throw and t_drop both have the following duplicated code:
+6. There is no significant duplicated code. In game.py, there are long functions, such as function move_dwaeves(line 188) and dispatch_command(line 501) that can be broken down to smaller functions. But I do find part of two functions that are duplicated. In game.py, the function t_throw(line 1239) and t_drop(line 896) both have the following duplicated code:
 if not obj.is_toting:
     self.write(verb.default_message)
     self.finish_turn()
@@ -28,9 +28,7 @@ if __name__ == "__main__":
 When you enter control+c, it gives you exception.
 8. In game.py, the class Game(object) has more than one functionality. It handles
 movement logic, game starting and ending, logic for objects interaction and more.
-9. Not all classes are not cohesive. For example, in game.py, Game(Data) has too
-many attributes and functions inside Game(Data) often manipulates more than one of
-the attributes.
+9. Not all classes are not cohesive. For example, in model.py, class Room(object), Word(object), Hint(object), and Pirate(Dwarf) are not cohesive.
 10. The author comments on particular lines that they think might be confusing
 to explain what they are doing. They also give classificatory comments for some
 functions.
@@ -48,5 +46,10 @@ There are more comments in game.py that are just numbers, which do not offer any
 explanation for the code.
 11. In adventure.py, line 19 the function "loop()" has nice vertical formatting. It leaves
 a line between each segment of code.
-12. Yes, the test passes after making change in adventure.py line 37 raw_input('> ') to input('> ‘). The test doesn’t meet the F.I.R.S.T criteria. The test is not independent. In test_commands.py, line 13 and line 21 depend on line 7.
+12. Yes, the test passes after making change in adventure.py line 37 raw_input('> ') to input('> ‘). The test meets the F.I.R.S.T criteria. The tests are fast since they only 
+take a minuscule amount of time to run. They are independent since no tests rely on state 
+or results created by other tests. They are repeatable since they produce the same results 
+every time they are run against the same code and do not rely on any previous state. They 
+are self-verifying since they explicitly return whether or not they were successful and 
+require no interpretation to tell whether they failed or not. Assuming that the tests were written during production rather than after, there are also timely.
 
